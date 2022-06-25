@@ -24,7 +24,7 @@ A brief breakdown of our process is as follows:
 
 Mel Spectrogram          |  MFCC
 :-------------------------:|:-------------------------:
-| ![](images%5Cangry_0fb05c8a26.png)| ![](images%5Cangry_0ae2776d1c.png)
+| ![](/images/angry_0fb05c8a26.png)| ![](/images/angry_0ae2776d1c.png)
 
 We initially converted and processed the images in the form of Mel Spectrograms but realised that an MFCC representation would better capture the nuances of human speech and would likely be better.
 
